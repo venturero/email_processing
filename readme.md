@@ -131,7 +131,7 @@ DEADLINE = "2025-12-31"
 
 ```bash
 Semi Venturero
-📧 Linkedin: [Semi Venturero](https://www.linkedin.com/in/semi/)
+📧 Linkedin: https://www.linkedin.com/in/semi/
 ```
 
 ## Acknowledgments
