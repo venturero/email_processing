@@ -107,6 +107,9 @@ DEADLINE = "2025-12-31"
 - Advanced sorting algorithms
 - ERP/CRM integration
 - Multilingual processing with deepl
+- Multi LLM information retrieval
+- Task status
+- Extracting company information from domain extension& mail signature. 
 ```
 
 ## Troubleshooting
