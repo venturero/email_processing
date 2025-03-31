@@ -134,10 +134,3 @@ Semi Venturero
 📧 Linkedin: https://www.linkedin.com/in/semi/
 ```
 
-## Acknowledgments
-
-```bash
-- OpenAI
-- Pandas Team
-- Python Community
-```
