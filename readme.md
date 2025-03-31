@@ -131,7 +131,7 @@ DEADLINE = "2025-12-31"
 
 ```bash
 Semi Venturero
-📧 Email: semi.venturero@example.com
+📧 Linkedin: [Semi Venturero](https://www.linkedin.com/in/semi/)
 ```
 
 ## Acknowledgments
